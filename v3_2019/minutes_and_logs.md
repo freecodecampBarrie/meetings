@@ -1,11 +1,11 @@
 # v3.2019 - September 27 / 2019
 
 **Location:** Study Room @ [Painswick Library](https://goo.gl/maps/m8Md2gRV5rzx6hVi9)
-
 **Time:** 5pm - 9pm !!! (we stayed longer than usual)
-
+**Organizer/Secretary:** [@paulywill](https://github.com/paulywill)
 [meetup.com event](https://www.meetup.com/meetup-group-mpphiYJe/events/264822516/)
 
+## Meeting
 
 An excellent meeting once again! :)
 
