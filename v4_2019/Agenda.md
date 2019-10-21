@@ -28,7 +28,7 @@ Until next month, code on!
 ### Suggested Format
 
 * 5:00pm - 6:00pm:
-    * Show and Tell. Anything you're working on on and want to share/ask/show off 
+    * Show and Tell. Anything you're working on and want to share/ask/show off 
 
     
 * 6:00pm - library close/tap-out:
