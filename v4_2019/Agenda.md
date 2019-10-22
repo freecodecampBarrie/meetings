@@ -1,3 +1,5 @@
+## EDIT: I'm now looking for someone to chair/run the meeting or may have to cancel this one. :P
+
 ### Agenda - October 25, 2019 
 5pm - 9pm'ish 
 @ Painswick Library Barrie
@@ -12,7 +14,7 @@ Yup.
 I had organized another meeting, *after* cancelling my Meetup account due to some recent [shenanigans](https://www.freecodecamp.org/news/the-wework-meetup-debacle-and-a-new-chapter/). _THEN_, I forgot an important family thing I have to do that evening (**Oct.25**).
 
 So not only have I created a meeting outside of Meetup.org where so many people have found us, I have to flake out and hope my fellow nerds will carry on without me. ~~I know [Brody](https://github.com/bjh) and [Tomoya](https://github.com/tomoyakuroda) will probably be there to help out. ;)~~ 
-EDIT: I'm now looking for someone to chair/run the meeting or may have to cancel. :P
+
 
 I do apologize and normally would re-schedule for another night, however as promised I kept us the same week as [NorthOT's event](https://www.eventbrite.ca/e/northot-barries-largest-tech-meetup-tickets-68883340927), and next Friday is my anniversary.
 
