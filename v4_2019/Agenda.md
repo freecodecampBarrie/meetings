@@ -37,7 +37,7 @@ Until next month, code on!
 
     
 * 6:00pm - library close/tap-out:
-    * Coding Challenge from freecodecamp.org or codewars.com
+    * Coding Challenge from [freecodecamp.org](freecodecamp.org) or [codewars.com](codewars.com)
     * Build something together (_cough_ [our site?](https://github.com/freecodecampBarrie/site) _cough_)
     * Look into [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
