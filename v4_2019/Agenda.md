@@ -1,4 +1,6 @@
-## EDIT: I'm now looking for someone to chair/run the meeting or may have to cancel this one. :P
+~~## EDIT: I'm now looking for someone to chair/run the meeting or may have to cancel this one. :P~~
+
+## Thank you Emilie for agreeing to chair meeting! :)
 
 ### Agenda - October 25, 2019 
 5pm - 9pm'ish 
