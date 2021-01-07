@@ -8,7 +8,7 @@
 
 **Time:** 5pm - 9pm
 
-**Organizers:** [@paulywill](https://github.com/paulywill) | [@Naismith](https://github.com/naismith)
+**Organizers:** [@paulywill](https://github.com/paulywill) | [@Naismith](https://github.com/naismith) | [@Emi55](https://github.com/Emi55)
 
 ### Suggested Format
 
