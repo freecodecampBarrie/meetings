@@ -2,9 +2,7 @@
 
 # v4.2019 - October 25, 2019 
 **Location:** Study Room @ [Painswick Library](https://goo.gl/maps/m8Md2gRV5rzx6hVi9)
-
 **Time:** 5pm - ?
-
 **Organizer/Secretary:** [@paulywill](https://github.com/paulywill)
 **Chair/Host:** Emilie Ah-Fock 
 
@@ -21,6 +19,6 @@ While there were not minutes captured what was discussed, covered, or shared... 
 
 ![alt text](artifacts/photo_2.jpeg  "Hard at work")
 
-![alt text](artifacts/video_1.MOV  "Hard at work")
+[Video 1](artifacts/video_1.MOV)
 
-![alt text](artifacts/video_2.MOV  "Hard at work")
+[Video 2](artifacts/video_2.MOV)
