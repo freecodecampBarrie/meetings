@@ -6,7 +6,7 @@
 
 **Location:** Zoom meeting (go to FB link above to sign-up)
 
-**Time:** 5pm - 9pm
+**Time:** 7pm - 10pm
 
 **Organizers:** [@paulywill](https://github.com/paulywill) | [@Naismith](https://github.com/naismith) | [@Emi55](https://github.com/Emi55)
 
