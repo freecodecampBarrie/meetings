@@ -13,6 +13,11 @@ Chris Naismith covered:
 
 Example here: https://example.naismith.dev/
 
+![alt text](https://github.com/freecodecampBarrie/meetings/blob/master/2021/v1_2021/artifacts/example_screen_shot_01.png "Example Screen shot 1")
+
+![alt text](https://github.com/freecodecampBarrie/meetings/blob/master/2021/v1_2021/artifacts/example_screen_shot_02.png "Example Screen shot 2")
+
+
 Emilie Ah-Fock:
 - helped Zoom moderate and show a quick Lighthouse use case
 
