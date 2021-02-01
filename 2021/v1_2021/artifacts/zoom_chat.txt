@@ -1,1 +1,192 @@
+00:02:09	Sean Sparling:	Thank you for having me
+00:02:11	Sean Sparling:	Yes
+00:02:30	Sean Sparling:	Excited to be here.
+00:04:06	Sean Sparling:	What are we going to learn tonight? :D
+00:04:38	Sean Sparling:	Not reslly
+00:04:54	Sean Sparling:	I just started with python 3
+00:05:23	Sean Sparling:	Finally I get to learn how this git thing works!
+00:06:20	Sean Sparling:	Awesomeness!
+00:07:56	Britney Ming:	Windows
+00:07:56	Sean Sparling:	Macos
+00:08:11	Sean Sparling:	lol
+00:08:36	Sean Sparling:	Is Emilie muted?
+00:08:44	Emilie AH-FOCK:	I muted my self :D
+00:08:47	Paul Gamble:	VS Code
+00:08:48	Sean Sparling:	Ah, kk
+00:09:05	Paul Gamble:	Github
+00:09:24	Britney Ming:	Okay
+00:12:46	Sean Sparling:	Self taught! I like this.
+00:13:07	Sean Sparling:	No, you are, lol. I’m just starting with python.
+00:14:46	Sean Sparling:	Just started, lol
+00:15:20	Sean Sparling:	Even as an electrician we “program” some home electrical devices.
+00:15:31	Sean Sparling:	How can we sign up for Pycon.
+00:16:01	Britney Ming:	Okay, I'll keep an eye out for it.
+00:17:12	Sean Sparling:	Once Covid restrictions end, is there ever a live meetup?
+00:17:40	Sean Sparling:	Awesomeness! Ty.
+00:18:23	Chris Naismith:	https://northot.ca
+00:20:14	Sean Sparling:	Yes and Github
+00:20:33	Sean Sparling:	Hello.
+00:20:35	Britney Ming:	Hi
+00:25:16	Emilie AH-FOCK:	Welcome Stephanie :) we just started
+00:25:33	Sean Sparling:	Touch might not have the full extension typed in
+00:25:59	Paul Gamble:	type nul > your_file.txt
+00:26:00	Emilie AH-FOCK:	please have a GitHub repos and VS code up
+00:26:09	Emilie AH-FOCK:	the presentation is also recorded :0
+00:26:13	Emilie AH-FOCK:	:) *
+00:27:08	Emilie AH-FOCK:	Welcome :)
+00:28:01	Emilie AH-FOCK:	we just started, we trying to clone a file on git using comd prompt
+00:38:38	Sean Sparling:	What happens when more that one person submits changes?
+00:39:23	Sean Sparling:	My apologies, what is a pull request?
+00:39:43	Sean Sparling:	Thank you. :D
+00:46:36	Paul Gamble:	https://guides.github.com/introduction/flow/
+00:52:26	Sean Sparling:	How do you find Chris’s webpage for his code?
+00:52:49	Paul Gamble:	https://github.com/Naismith/free-code-camp-jan-29
+00:52:59	Sean Sparling:	Thank you
+00:54:17	Brooklyne Cheney:	Hey while we are working here …. I just wanted to give you my LinkedIn https://www.linkedin.com/in/brooklynecheney/
+00:57:57	Christopher Cooke:	If you are using VS2019, look for Git Changes tab.  It allows you to clone a GitHub repo.
+00:58:20	Emilie AH-FOCK:	Thank you Brooklyne
+01:02:05	Emilie AH-FOCK:	Now im hungry :D :D
+01:02:29	Britney Ming:	xD
+01:02:35	Sean Sparling:	Don’t check out the website- you’ll get hungry.
+01:03:47	Sean Sparling:	Sure
+01:04:32	Sean Sparling:	Awesome
+01:10:44	Emilie AH-FOCK:	Hello we are currently on break :)
+01:10:49	Emilie AH-FOCK:	we will resume in 10min
+01:11:06	Emilie AH-FOCK:	loooove that song <3 <3
+01:16:31	Sean Sparling:	Trying to learn SQLite
+01:18:26	Paul Gamble:	Hey Tomoya!
+01:18:34	Sean Sparling:	Cani it be uploaded to another DB type?
+01:18:37	Tomoya Kuroda:	Hey Paul!
+01:18:54	Chris Naismith:	@Sean yes
+01:19:48	Stephanie Brandon:	I love code sandbox!
+01:20:32	Paul Gamble:	https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+01:23:24	Chris Naismith:	https://codesandbox.io/live/9pcmvkj
+01:27:53	Sean Sparling:	Is this a coding challenge?
+01:28:16	Sean Sparling:	Perfect, bookmarked.
+01:28:18	Emilie AH-FOCK:	Yes
+01:28:47	Emilie AH-FOCK:	you have other learning materials too
+01:29:06	Tomoya Kuroda:	Maybe we need to add another tag inside the div
+01:29:07	Emilie AH-FOCK:	My teacher used it for our js class
+01:29:59	Sean Sparling:	This is a relief to see others scratching their heads. At least Chris isn’t swearing. lol
+01:30:21	Stephanie Brandon:	I was thinking the same thing lol
+01:30:27	Sean Sparling:	lol
+01:32:27	Sean Sparling:	Is Prettier like black for python?
+01:32:52	Sean Sparling:	Yup, ty.
+01:33:07	Stephanie Brandon:	Prettier is really easy to instal on VS code too
+01:34:07	Sean Sparling:	Is it an add-on @Stephanie?
+01:34:16	Emilie AH-FOCK:	prettier?
+01:34:22	Sean Sparling:	Yes.
+01:34:28	Emilie AH-FOCK:	its an extension you can install
+01:34:53	Emilie AH-FOCK:	if you are vs code on the left hand side
+01:34:59	Emilie AH-FOCK:	you can find it in the search bar
+01:35:00	Sean Sparling:	Is there a definition of what a div is?
+01:35:08	Stephanie Brandon:	If you go to the side bar of VS the very last is the extension that you can search for prettier
+01:35:22	Emilie AH-FOCK:	like a section
+01:35:53	Sean Sparling:	Ty!
+01:35:57	Stephanie Brandon:	Do you mind explaining the difference between a div and a span?
+01:36:16	Emilie AH-FOCK:	div  its like grouping if you want
+01:37:21	Sean Sparling:	Which one?
+01:38:29	Stephanie Brandon:	Thank you
+01:47:14	Emilie AH-FOCK:	<link rel="stylesheet" href="css/styles.css">
+</head>
+01:50:37	Stephanie Brandon:	Sorry if I missed it but what makes it the parent element?
+01:51:44	Stephanie Brandon:	Okay thank you I have just yet to hear that temrinology :)
+01:52:05	Emilie AH-FOCK:	but you do not have grandchild
+01:52:08	Emilie AH-FOCK:	you have ancestors
+01:57:22	Brooklyne Cheney:	You can’t use netlify to deploy a nodejs site?
+02:00:52	Stephanie Brandon:	you can chug along :)
+02:00:56	Christopher Cooke:	I'm easy
+02:00:59	Britney Ming:	Doing good.
+02:01:05	Christopher Cooke:	Heh
+02:01:42	Paul Gamble:	Why not Godaddy?
+02:04:27	Emilie AH-FOCK:	what is  a CNAME type
+02:04:55	Stephanie Brandon:	What does cashing mean?
+02:05:22	Chris Naismith:	caching
+02:05:47	Emilie AH-FOCK:	it hide your info
+02:06:45	Sean Sparling:	Would it be temporarily stored information?
+02:06:50	Britney Ming:	Is it something that makes use of RAM?
+02:07:24	Sean Sparling:	Thank you.
+02:08:27	Britney Ming:	Okay, thank you.
+02:13:52	Chris Naismith:	CACHE / CACHING
+02:13:59	Chris Naismith:	HASH / HASHING
+02:14:18	Sean Sparling:	Like s hash tag?
+02:14:23	Stephanie Brandon:	okay that makes more sense, but just so I make sure I fully understand if you update a website and it has a 1 hour cach timing then the site will not have that updated information on the site until the caching checks for changes an hour later and updates?
+02:15:02	Christopher Cooke:	Hashing for a quick lookup or reference?
+02:15:36	Emilie AH-FOCK:	Hashing?
+02:15:39	Stephanie Brandon:	So it is strictly to do with the site name
+02:15:43	Stephanie Brandon:	thank you :)
+02:16:46	Sean Sparling:	so clearing your cache is forcing it to re examine everything?
+02:16:56	Paul Gamble:	Correct
+02:18:32	Emilie AH-FOCK:	its like a type I would say. like a write a hash password. it means I am giving it a type with int 100 character
+02:21:31	Stephanie Brandon:	Thanks, I followed for most of that 😅
+02:21:45	Sean Sparling:	How good are the wings on your website?
+02:22:06	Stephanie Brandon:	it also may just be that I am normally in bed by now 😂
+02:22:38	Sean Sparling:	On a friday night?
+02:23:08	Emilie AH-FOCK:	It recorded :) if you need to go and have work tom t's okay
+02:23:31	Christopher Cooke:	a "one way hash function for password" allows you to check a password value without knowing it based on matching hash value.
+02:26:42	Emilie AH-FOCK:	batter dying brb
+02:27:20	Stephanie Brandon:	Thank you this will now be ingrained into my brain thank. You and your drawing skill makes it more memorable 😂
+02:29:27	Sean Sparling:	CDN = Awesome Canadians?
+02:29:48	Emilie AH-FOCK:	:)
+02:32:03	Sean Sparling:	Yes done with lasers though
+02:35:36	Sean Sparling:	What is lighthouse?
+02:35:49	Emilie AH-FOCK:	its a tool
+02:36:00	Emilie AH-FOCK:	that helps you to see the performance of tge website
+02:36:03	Tomoya Kuroda:	If we want to update image like logo.jpg on the server, should we rename the file as well to avoid getting old image in terms of cache?
+02:40:09	Sean Sparling:	Thank you Emilie and Chris! :D
+02:40:28	Emilie AH-FOCK:	no problem ^^ my pleasure
+02:41:35	Tomoya Kuroda:	Thank you!
+02:42:01	Sean Sparling:	Any other recipes you would like to recommend?
+02:42:26	Emilie AH-FOCK:	frugal for college student please
+02:42:57	Sean Sparling:	Happy Birthday Mrs Chris.
+02:43:28	Chris Naismith:	https://cookbook.naismith.dev/recipes/pork-and-butternut-squash-linguine
+02:45:10	Sean Sparling:	Is there a way to comment them out?
+02:45:25	Emilie AH-FOCK:	comment your code?
+02:45:26	Emilie AH-FOCK:	yes
+02:45:33	Christopher Cooke:	Uncle Bob? http://cleancoder.com/products
+02:46:04	Sean Sparling:	Just watched uncle bob last night on youtube
+02:46:30	Sean Sparling:	Pencil and paper to do list for me.
+02:48:13	Sean Sparling:	Yes us electricians are pretty picky
+02:50:32	Sean Sparling:	How many screens do you have?
+02:52:27	Sean Sparling:	So you can have one master file that references the other ones?
+02:52:58	Sean Sparling:	Instrumental house
+02:53:12	Chris Naismith:	For the master file - typically yes
+02:53:26	Christopher Cooke:	https://musicforprogramming.net/
+02:53:59	Britney Ming:	Yh that's true XD
+02:55:17	Sean Sparling:	https://www.youtube.com/channel/UCqY3gnYuuzONai4jUhnCv6g
+02:57:11	Sean Sparling:	The blind coding would teach you troubleshooting skills?
+02:57:21	Emilie AH-FOCK:	It 's just for fun
+02:57:25	Emilie AH-FOCK:	I would not recommend it
+02:58:01	Emilie AH-FOCK:	troubleshooting you need to test you cant blind code
+03:00:10	Paul Gamble:	https://www.obeythetestinggoat.com/
+03:02:51	Chris Naismith:	monthly
+03:03:05	Emilie AH-FOCK:	same we can go test and try
+03:03:07	Sean Sparling:	The more opportunities the better- preferably at the same time.
+03:03:54	Sean Sparling:	I look forward to the cited restrictions lifting and hopefully an in person meet up.
+03:04:02	Tomoya Kuroda:	Sounds good
+03:04:03	Britney Ming:	I agree with monthly.
+03:04:05	Emilie AH-FOCK:	you will love it
+03:04:08	Sean Sparling:	Covid- not cited.
+03:04:35	Emilie AH-FOCK:	Arduinot
+03:04:44	Sean Sparling:	Arduino?
+03:04:45	Paul Gamble:	https://github.com/freecodecampBarrie
+03:05:05	Sean Sparling:	Rasperry pi Pico just came out
+03:05:09	Emilie AH-FOCK:	It's a way to make electronic work
+03:05:11	Emilie AH-FOCK:	kind of
+03:05:13	Britney Ming:	Arduino sounds good.
+03:05:46	Sean Sparling:	https://www.arduino.cc/en/software
+03:05:59	Emilie AH-FOCK:	trinkercad
+03:06:15	Sean Sparling:	I have a spare if someone needs in the Barrie area
+03:07:09	Sean Sparling:	Amazon- look up Elegoo Arduino
+03:07:54	Sean Sparling:	Whats the youtube channel?
+03:08:16	Sean Sparling:	Ah, kk, ty
+03:08:37	Sean Sparling:	Awesomeness. Thank you everyone. :D
+03:08:42	Chris Naismith:	https://northot.ca/
+03:09:11	Emilie AH-FOCK:	in person meeting we had pizza :P just saying
+03:09:23	Sean Sparling:	Mmm Pizza!
+03:10:11	Stephanie Brandon:	Thank you!!!!!!
+03:11:02	Sean Sparling:	Looking forward to the next one. :D
+03:11:15	Chris Naismith:	If anyone wants to get in touch with me- feel free to connect on LI https://www.linkedin.com/in/chris-naismith/
+03:11:16	Sean Sparling:	I have learned lots, thank you everyone
+03:11:58	Sean Sparling:	Play safe everyone!
 
