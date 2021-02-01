@@ -31,3 +31,5 @@ Our FB page: https://www.facebook.com/groups/free.code.camp.Barrie.Ontario
 Agenda and Minutes: https://github.com/freecodecampBarrie/meetings
 
 Recording of Meeting: https://youtu.be/-5IaSX5CiuA
+
+Zoom Chat Log: https://github.com/freecodecampBarrie/meetings/blob/master/2021/v1_2021/artifacts/zoom_chat.txt
