@@ -1,0 +1,119 @@
+00:22:49	Paul Gamble:	https://www.facebook.com/MadeInBarrie/
+00:47:41	Sean Sparling:	Sayal hobbies sells all of it. :D
+00:54:41	Sean Sparling:	Does anyone else use a soldering station?
+00:55:05	Emilie AH-FOCK:	I use tinkercad
+00:55:09	Christopher Cooke:	It's been *years* since I soldered anything...
+00:55:33	Sean Sparling:	There is also a flat side on LED’s to determine the negative cathode
+00:55:44	Sean Sparling:	an electrical check valve
+00:56:24	Sean Sparling:	It’s polarized
+00:58:08	Sean Sparling:	Pro tip: solder flows to towards the heat.
+00:58:50	Sean Sparling:	It all comes back quickly Chris. :D
+00:59:27	Sean Sparling:	I love that vice.
+01:01:25	Sean Sparling:	https://www.amazon.ca/Aven-17010-Adjustable-Circuit-Holder/dp/B00Q2TTQEE/ref=sr_1_19?dchild=1&keywords=soldering+vise&qid=1614386830&sr=8-19
+01:02:44	Rudy Romero:	wish the webcam was clearer
+01:04:06	Christopher Cooke:	https://cpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/8/307/files/2020/09/1b-Soldering.pdf
+01:04:07	Sean Sparling:	Dual sided boards need contact on both survaces
+01:04:33	Christopher Cooke:	page 6 of this PDF has idealized solder joints
+01:05:25	Christopher Cooke:	data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMQERUSEhIWFhUVFxcYFhcYGRcfFxYYGBsYFhsaHhkYHyggGBslICAYJjEhJSkrLi4uGCAzODMtNygvLisBCgoKDg0OGhAQGy0lICUtLS8tKy0tLS0tLS0tLS0tLS0vLS0tLy8rLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAKwBJQMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAABQQGBwMCAf/EAEQQAAIBAwMCAwQHBgUCBAcAAAECAwAREgQTIQUxBiJBFDJRYQcWI0JTcYFSYpKhorEVM3KRwSTRNGOz8CVUdIKTstP/xAAaAQEAAwEBAQAAAAAAAAAAAAAAAQIDBAUG/8QAKhEAAgICAgIBAwQCAwAAAAAAAAECEQMSITETUUEEMmEikaHRgbEzYnH/2gAMAwEAAhEDEQA/ANxooooAooooAooooAooooAoorhrtSIo2c+g4F7XJ4Av6XNh+tAJ/Fsrsi6eP3pCC548sYIBPPBNyPKfeCuKrHjjqqafTsHPlZWaQXFzClsxz+2THF+c4PpUzpOmZ1M5dhJMcgf3PuXRhbkeYgi6mRgCAKzrx91QamfTwNYJI7GRl3CZYdMz4naHuRs+7yC2QjVr2AAAsv0PdFd2bWTi8kjGZzbu8l8F/wBKrc4nlSRatapX4Z0Ig0yKLEsM2IIN2YA9x7wAsAfUKKaUBW/FsVngl+BeI/AbgVwT+sYX83FSvCU99Pt+sLGO3wUeaP8AP7Mp+tx6VP6poRqIXiJtkOG7lWByVgD6qwBHzFVDpOvMEwkcYg/Y6hebIVJxbke6rE88ApJl2AoC9UUUUAVUIJWmmknP+W4VYhxyi3Ibj0N8hex87X9K7eL9QZWj0ik/acyW9EHvdj8Li/dWkiNLuqTnTqoU5bjrGsbNb3rliJPeUIgdyTlwnFqAz7xxrfbdUmlB8jnKT3rDT
+01:05:36	Christopher Cooke:	Sorry, I suck
+01:05:42	Sean Sparling:	Nice! Thanks for the share Chris!
+01:06:13	Sean Sparling:	THe PDF, that is, lol
+01:07:25	Rudy Romero:	that is a sad soldering iron lol
+01:09:56	Sean Sparling:	https://secure.sayal.com/STORE2/shop.php?store=
+01:10:28	Sean Sparling:	https://secure.sayal.com/STORE2/View_SHOP.php?SKU=223423
+01:11:18	Sean Sparling:	Chris is the man- check out that PDF he shared.
+01:11:52	Sean Sparling:	555 since the 60’s the 556 is the dual timer
+01:12:56	Sean Sparling:	If you’re not comfortable or designing a layout: https://secure.sayal.com/STORE2/details.php?PID=2702351
+01:13:56	Sean Sparling:	It happens to everyone. :D
+01:14:10	Sean Sparling:	3.3V to 5V
+01:15:18	Sean Sparling:	All electronics run on smoke- once you let the smoke out it stops working- permanently.
+01:15:21	Sean Sparling:	Pin 9
+01:17:49	Sean Sparling:	Pin 9
+01:18:21	Sean Sparling:	LED Pin 9
+01:19:41	Sean Sparling:	You  Cathode is not connected on # 9
+01:21:45	Sean Sparling:	The resistor need to go to positive
+01:22:05	Sean Sparling:	BOth inputs are on the negactive power
+01:23:58	Sean Sparling:	Look at the power supply for the resistor.....
+01:25:07	Sean Sparling:	How to unmute???
+01:25:33	Emilie AH-FOCK:	you are unmuted
+01:26:12	Sean Sparling:	Emilie, no sound, but look at your resistor- it’s on negative as well.
+01:26:13	Emilie AH-FOCK:	int blueLedPin = 13 ; //The blue LED is connected pin 13 of the Arduino.int button1Pin = 2; //The SW1 button is connect to pin 2 of the Arduino.void setup() { //The Setup function runs oncepinMode(blueLedPin, OUTPUT); //Setup blue LED pin as an output pin.pinMode(button1Pin, INPUT); //Setup button1 pin as an input pin.}void loop() { //The loop function runs forever.if (digitalRead(button1Pin) == HIGH) { //Check to see if button1 is pressed.digitalWrite(blueLedPin, HIGH);//Turn on the blue LED.} else {digitalWrite(blueLedPin, LOW); //Turn off the blue LED.}}
+01:28:58	Sean Sparling:	My Mic isn’t working, but look at Emilie’s resistor on the negative rail as well as the LED
+01:30:00	Emilie AH-FOCK:	here
+01:32:17	Sean Sparling:	BOTH are NEGATIVE. :)
+01:32:27	Sean Sparling:	THere you go!
+01:33:51	Sean Sparling:	You’ve got it Emilie!  Good going. :D
+01:34:44	Sean Sparling:	Set your switch to low
+01:36:43	Sean Sparling:	Flow your flow of electricity like pipes in a plumbing system.
+01:38:05	Sean Sparling:	Is Arduino a version of C?
+01:38:16	Sean Sparling:	AH, thank you.
+01:38:30	Emilie AH-FOCK:	My teacher said Java :D and I have never done that
+01:38:34	Emilie AH-FOCK:	im glad it's C
+01:39:05	Sean Sparling:	Python you can aparently.
+01:39:29	Paul Gamble:	Ie CircuitPython
+01:39:52	Sean Sparling:	Arduino is for controlling hardware, RPi is for software.
+01:40:40	Sean Sparling:	Now now, Us electricians like that stuff. lol
+01:41:34	Sean Sparling:	That was Paul.
+01:41:51	Sean Sparling:	He’s the ssmarter of the two of us. ;)
+01:42:33	Sean Sparling:	Is this tinkercad?
+01:43:15	Emilie AH-FOCK:	YES
+01:43:18	Emilie AH-FOCK:	Yes*
+01:43:45	Sean Sparling:	Has anyone used Electronics Workbench?
+01:43:56	Paul Gamble:	No, what’s that?
+01:44:03	Emilie AH-FOCK:	I used SQL workbench not Electronic
+01:44:08	Emilie AH-FOCK:	what is it?
+01:44:50	Sean Sparling:	It’s about the same thing as tinkercad, but it was a stand alone program, back when I was an apprentice.
+01:45:22	Emilie AH-FOCK:	oh cool
+01:45:32	Sean Sparling:	Check the battery. LOL
+01:46:00	Sean Sparling:	Is the bulb burnt out? LOL
+01:46:29	Emilie AH-FOCK:	lmao
+01:46:52	Sean Sparling:	https://archive.org/details/ElectronicWorkbenchEwb5.12
+01:47:11	Sean Sparling:	DOn’t let the smoke out of the electronics
+01:49:01	Tomoya Kuroda:	Are you sharing the screen?
+01:52:23	Sean Sparling:	Lets see how good of a musician Paul is now.
+01:52:52	Sean Sparling:	Are the leads fused?
+01:53:11	Sean Sparling:	All our leads are fused for safety
+01:55:17	Sean Sparling:	Longer is positive
+01:55:46	Sean Sparling:	HTe wires aren’t polarized
+01:57:02	Sean Sparling:	By pass the switch to test the circuit first.
+01:57:06	Christopher Cooke:	Does the USB need to be plugged in?
+01:57:20	Christopher Cooke:	Ah!
+02:00:22	Emilie AH-FOCK:	seems like SAN COS TAN
+02:07:46	Sean Sparling:	THis is what I was talking about: https://www.ni.com/en-ca/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html
+02:08:17	Sean Sparling:	Yup
+02:08:31	Emilie AH-FOCK:	Sometime I  try serial monitor to check if its high or low
+02:11:31	Paul Gamble:	https://www.tinkercad.com/things/6f947yXj3sf-fcc-barrie-calculator-boilerplate/editel
+02:11:54	Sean Sparling:	“Sorry that page is missing”?
+02:12:40	Sean Sparling:	How do you get to the Arduino page?
+02:12:58	Emilie AH-FOCK:	either public
+02:13:02	Emilie AH-FOCK:	or we can share the code
+02:13:04	Paul Gamble:	https://www.tinkercad.com/things/6f947yXj3sf-fcc-barrie-calculator-boilerplate
+02:13:25	Sean Sparling:	That one worked
+02:14:18	Sean Sparling:	That a boy- steal the code :D
+02:17:32	Christopher Cooke:	It's for learning an inspiration, ha!
+02:19:21	Christopher Cooke:	Numbers could get big quick... what datatypes does this thing have?
+02:20:15	Emilie AH-FOCK:	looks like my island
+02:20:17	Paul Gamble:	https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number
+02:20:18	Brian McGillis:	For bonus points make the answer scroll back and forth like a Cylon eye
+02:20:27	Brian McGillis:	or like KITT's light
+02:21:06	Christopher Cooke:	Ardruino and accelerometers?
+02:21:31	Sean Sparling:	Excellent Tutorial Brian, thank you.
+02:22:03	Christopher Cooke:	And there are Blue Tooth connect bits?
+02:22:37	Sean Sparling:	What ever you do- don’t go on Wish and buy ever Arduino add on- do ask.
+02:23:28	Sean Sparling:	Some are interchangable
+02:23:33	Christopher Cooke:	Wish? the place that sells chicken helmets?  That Wish?
+02:23:38	Sean Sparling:	yup
+02:24:31	Sean Sparling:	https://www.wish.com/search/Arduino%20kit
+02:27:01	Sean Sparling:	Is there a recommended tutorial for javascript- I have only started with python.
+02:27:23	Emilie AH-FOCK:	codecamp yes
+02:27:28	Paul Gamble:	freecodecamp.org has several
+02:27:35	Emilie AH-FOCK:	My teacher used it the only issue
+02:27:47	Emilie AH-FOCK:	is that its super specific
+02:27:59	Emilie AH-FOCK:	I mean the answers
+02:28:57	Sean Sparling:	Is there a link to it?
+02:29:33	Christopher Cooke:	Cool, I did the survey a few months ago.
+02:30:31	Brian McGillis:	https://www.facebook.com/MadeInBarrie/
+02:32:47	Sean Sparling:	ITS SO AWESOME!
+02:33:49	Sean Sparling:	Never! It will keep growing. :D
+02:33:57	Tomoya Kuroda:	Thank you!
+02:34:11	Sean Sparling:	Thank you. Good to see everyone.
