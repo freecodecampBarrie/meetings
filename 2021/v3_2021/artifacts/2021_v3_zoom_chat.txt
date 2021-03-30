@@ -1,0 +1,26 @@
+00:03:57	Leah Furyk:	http://repl.it/languages/python3
+00:04:23	Leah Furyk:	https://www.jetbrains.com/pycharm/
+00:15:45	Emilie AH-FOCK:	looks like js. I wish you were my teacher at school @Leah
+00:28:54	Emilie AH-FOCK:	I agree
+00:32:28	Rudy Romero:	python is looking alot like javascript to me but more simple..
+00:32:36	Emilie AH-FOCK:	me too
+00:39:06	Emilie AH-FOCK:	sorry my water bottle just spilt
+00:48:00	Emilie AH-FOCK:	99
+01:01:53	Paul Gamble:	Shall we call a bio-break in a few mins?
+01:02:01	Emilie AH-FOCK:	sure
+01:03:14	Christopher Cooke:	Awesome :)
+01:21:26	Christopher Cooke:	Python == Data science.  Jupyter Notbooks, for example.
+01:24:06	Leah Furyk:	https://www.canadalearningcode.ca/
+01:38:18	Emilie AH-FOCK:	Hello Britney :) we are going hthrough Python
+01:38:45	Britney Ming:	Hi .Okay, thank you.
+01:40:10	Britney Ming:	Sorry but what application is this? It look similar to Intellij.
+01:40:29	Emilie AH-FOCK:	http://repl.it/languages/python3https://www.jetbrains.com/pycharm/
+01:40:34	Emilie AH-FOCK:	pycharm
+01:40:53	Britney Ming:	Ok thanks.
+01:43:09	Tomoya Kuroda:	1+2+3+4
+01:55:23	Emilie AH-FOCK:	http://repl.it/languages/python3https://www.jetbrains.com/pycharm/
+02:05:28	Tomoya Kuroda:	It's great!
+02:06:18	Christopher Cooke:	Python deepend?  https://www.kaggle.com/learn/overview
+02:06:34	Emilie AH-FOCK:	thank you Christ
+02:16:17	Leah Furyk:	https://sqliteonline.com/
+02:27:02	Britney Ming:	Thank you
