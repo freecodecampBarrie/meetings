@@ -1,45 +1,34 @@
 # freeCodeCamp Barrie - Minutes
 
-## February 26, 2021 - Virtual Meeting (Zoom) 7:00 pm - 9:12 pm
+## March 26, 2021 - Virtual Meeting (Zoom) 7:00 pm - 9:17 pm
 
-This was our second virtual meetup.
+[Emilie Ah-Fock](https://github.com/Emi55) hosted and chair the meeting
+[Paul Gamble](https://github.com/paulywill) helped Zoom moderate
 
-We had approximately 7 attendees (some without video) from different parts of the world besides our local community in Barrie, Ontario Canada.
+Our guest speaker was the talented and generous, **Leah Furyk**, from [Canada Learning Code - Barrie Chapter](https://www.canadalearningcode.ca/chapters/barrie/).
 
-We were lucky enough to get Brian McGillis, from [BRIX](brix.work) - Barrie Region Innovative Xchange – Barrie’s Makerspace.
+### Find them on
 
-Find them on on their [Facebook Page](https://www.facebook.com/MadeInBarrie​).
+[CLC Barrie Chapter FB Page](https://www.facebook.com/learningcodeylk)
 
-Please fill out and share their [Makerspace - Public Interest Survey](https://docs.google.com/forms/d/e/1FAIpQLSdu5BGs-VCIJ2DMLplWMnTKyepmHxUSAyHDqyIuqqftycm20w/viewform
-).
+### Leah covered
 
-### What was covered
+- some fantastic basics on Python
+- using [Pycharm](https://www.jetbrains.com/pycharm/) and repl.it
+- fielded many Python questions throughout
+- even guided us in making a "Name Generator" by the end
 
-- Soldering basics
-- Must have tools
-- TinkerCAD coding
-- Arduino
-- Shields
-- Multi-meters
+### Homework
 
-[Emilie Ah-Fock](https://github.com/Emi55):
-
-- helped Zoom moderate
-
-[Paul Gamble](https://github.com/paulywill):
-
-- played host and did his best to keep things rolling along
-
-### Homework:
-
-- Remove bugs from this [TinkerCAD Circuit](https://www.tinkercad.com/things/6f947yXj3sf-fcc-barrie-calculator-boilerplate)
-
-- Change circuit code to solve this [FCC Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number)
-
+- Please make sure to follow and like [CLC-Barrie FB page](https://www.facebook.com/learningcodeylk), and stay tuned for their upcoming online SQL course April 26, 2021 - 12pm -2pm
 Tune next time, last Friday evening of every month!
+
+### About Us
 
 - Our [FB Group](https://www.facebook.com/groups/free.code.camp.Barrie.Ontario)
 
 - [Agenda and Minutes](https://github.com/freecodecampBarrie/meetings)
 
-- [Recording of Meeting](https://youtu.be/sGLD9rKV-qA)
+- [Recording of Meeting](https://youtu.be/70Dr9pvlFh0)
+
+- [Zoom Chat](artifacts/2021_v3_zoom_chat.txt)

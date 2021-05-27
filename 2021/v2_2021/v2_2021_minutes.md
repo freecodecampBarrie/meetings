@@ -30,7 +30,7 @@ Please fill out and share their [Makerspace - Public Interest Survey](https://do
 
 - played host and did his best to keep things rolling along
 
-### Homework:
+### Homework
 
 - Remove bugs from this [TinkerCAD Circuit](https://www.tinkercad.com/things/6f947yXj3sf-fcc-barrie-calculator-boilerplate)
 

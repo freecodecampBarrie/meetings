@@ -2,7 +2,7 @@
 
 ## Agenda - Friday, March 26, 2021
 
-[FB Announcement]()
+[FB Announcement](https://www.facebook.com/events/3891587080919520)
 [Eventbrite Announcement]()
 
 **Location:** Zoom meeting
