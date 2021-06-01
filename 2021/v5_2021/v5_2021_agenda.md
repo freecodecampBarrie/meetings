@@ -2,9 +2,7 @@
 
 ## Agenda - Friday, April 30, 2021
 
-[FB Announcement](https://www.facebook.com/events/789825501921706)
-
-[Eventbrite Announcement](https://www.eventbrite.ca/e/hackathon-v5-2021-freecodecamp-barrie-study-group-tickets-156992531889)
+[FB Announcement](https://www.facebook.com/events/789825501921706) | [Eventbrite Announcement](https://www.eventbrite.ca/e/hackathon-v5-2021-freecodecamp-barrie-study-group-tickets-156992531889)
 
 **Location:** Zoom meeting
 
