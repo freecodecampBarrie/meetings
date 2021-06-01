@@ -2,8 +2,8 @@
 
 ## April 30, 2021 - Virtual Meeting (Zoom) 7:00 pm - 8:26 pm
 
-[Emilie Ah-Fock](https://github.com/Emi55) hosted and chair the meeting
-[Paul Gamble](https://github.com/paulywill) helped Zoom moderate
+[Paul Gamble](https://github.com/paulywill) - hosted and chair the meeting
+[Emilie Ah-Fock](https://github.com/Emi55) -  helped Zoom moderate
 
 Our guest speaker was the founder of [Chingu.io](https://chingu.io), **Chance McAllister**.
 
