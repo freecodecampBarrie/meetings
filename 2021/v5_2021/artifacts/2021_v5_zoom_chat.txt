@@ -1,0 +1,175 @@
+00:13:36	Paul Gamble:	https://us02web.zoom.us/j/81719100382
+00:16:35	Emilie AH-FOCK:	Welcome everyone ^^
+00:17:59	Britney Ming:	Hi
+00:19:56	Britney Ming:	Ok
+00:20:31	Britney Ming:	Ok just a moment.
+00:21:48	Britney Ming:	Bribri770
+00:42:48	Britney Ming:	Ok
+00:52:46	Sean Sparling:	Did everyone get Pauls credit card at the top?
+00:53:09	Sean Sparling:	LOL
+00:53:10	Tomoya Kuroda:	lol
+00:55:21	Sean Sparling:	No, not at all…..
+00:56:47	Sean Sparling:	Just downloading to VScode
+00:56:51	Emilie AH-FOCK:	Im stuck
+00:57:27	Britney Ming:	I'm stuck too.
+00:58:17	Sean Sparling:	How do you do the hot tip?
+01:02:22	Sean Sparling (T357A):	Cory Schafer has a GitHub with all the settings
+01:03:42	Sean Sparling (T357A):	Ctrl+Shift+P then type in install I think
+01:04:28	Sean Sparling (T357A):	I can still see and hear both of you
+01:04:39	Sean Sparling (T357A):	How do you do at the hot tip?
+01:05:03	Sean Sparling (T357A):	Is it in VScode?
+01:08:26	Sean Sparling (T357A):	Did it work?
+01:10:57	Sean Sparling (T357A):	Did my hot tip go through?
+01:12:39	Sean Sparling (T357A):	Whats Trello?
+01:13:55	Sean Sparling (T357A):	0
+01:14:07	Sean Sparling (T357A):	I’m here to learn
+01:14:33	Sean Sparling (T357A):	Is it available for Mac/ IOS? :D
+01:14:47	Sean Sparling (T357A):	Thank you.
+01:16:05	Sean Sparling (T357A):	I’m a new python tinkerer. Not much more than the basics
+01:16:38	Britney Ming:	I do Java and C, so I guess I'm backend?
+01:17:27	Sean Sparling (T357A):	This is AWESOME! I’m going to learn a ton. Thank you everyone. :D
+01:18:10	Sean Sparling (T357A):	Is logic, like a flow chart?
+01:19:36	Sean Sparling (T357A):	What Paul said, the logic
+01:20:02	Sean Sparling (T357A):	Is it like IFTTT?
+01:23:29	Sean Sparling (T357A):	This can get addicting. So it’s basically a choose a direction by the way they answer?
+01:23:45	Sean Sparling (T357A):	Git it! Thank you.
+01:24:16	Sean Sparling (T357A):	Look into Lutron Caseta ;) if you like IFTTT
+01:24:47	Sean Sparling (T357A):	Do we download that?
+01:25:42	Sean Sparling (T357A):	It would rarely go down or loose connection when its online?
+01:26:16	Emilie AH-FOCK:	You just have to connect to any internet connection. It will be there.
+01:26:31	Emilie AH-FOCK:	Unlike sql it does not relay querry a particular database
+01:26:36	Emilie AH-FOCK:	its mainly json
+01:27:15	Sean Sparling (T357A):	I’ve got Pauls credit card, do we need a bigger account?
+01:27:26	Emilie AH-FOCK:	:D
+01:30:29	Sean Sparling (T357A):	LOL
+01:30:48	Sean Sparling (T357A):	What programming language is Paul using?
+01:31:13	Sean Sparling (T357A):	The black screen
+01:32:11	Sean Sparling (T357A):	Ok, thank you. :D
+01:33:01	Sean Sparling (T357A):	No, I’m here to learn. :D
+01:33:45	Sean Sparling (T357A):	Does anyone have recommended reading or videos?
+01:33:55	Emilie AH-FOCK:	Yes one sec
+01:34:01	Emilie AH-FOCK:	node.js?
+01:34:18	Sean Sparling (T357A):	Anything that you could recommend would be appreciated.
+01:34:56	Emilie AH-FOCK:	https://www.youtube.com/watch?v=GJmFG4ffJZU
+01:35:22	Sean Sparling (T357A):	It’s greatly appreciated :D
+01:35:41	Emilie AH-FOCK:	https://www.youtube.com/watch?v=km0mvNDaLRI
+01:36:01	Emilie AH-FOCK:	the second one will help you install node.js
+01:36:09	Paul Gamble:	r2weU5bbtSRiuJF
+01:37:09	Sean Sparling (T357A):	Thank you Emillie!
+01:37:24	Emilie AH-FOCK:	welcome :) my pleasure
+01:39:23	Sean Sparling (T357A):	LOL
+01:41:16	Sean Sparling (T357A):	Is there a limit or size for the free account?
+01:41:28	Emilie AH-FOCK:	the MongoDB?
+01:41:32	Sean Sparling (T357A):	Yes
+01:42:04	Emilie AH-FOCK:	I don't think(good question), but for the storage there is
+01:42:23	Sean Sparling (T357A):	Thank you. :)
+01:42:43	Sean Sparling (T357A):	Is there a link to the tutorial?
+01:42:53	Emilie AH-FOCK:	MongoDb?
+01:43:02	Sean Sparling (T357A):	The one Paul is reading
+01:43:31	Emilie AH-FOCK:	It just go on the browser and create an account
+01:43:41	Sean Sparling (T357A):	OK :)
+01:43:48	Emilie AH-FOCK:	but I can find one on youtube for you :)
+01:44:36	Tomoya Kuroda:	https://dev.to/andrewbaisden/creating-mern-stack-applications-2020-4a44
+01:44:36	Emilie AH-FOCK:	https://www.youtube.com/watch?v=bxsemcrY4gQ
+01:44:39	Sean Sparling (T357A):	That would be wonderul
+01:44:43	Sean Sparling (T357A):	Thank you!
+01:46:01	Emilie AH-FOCK:	really good source thank you Tomoya :) I have bookmarked it
+01:46:13	Sean Sparling (T357A):	Same here!
+01:46:43	Sean Sparling (T357A):	It really is, and it’s a lot better than doing electrical work. :D
+01:47:00	Emilie AH-FOCK:	:D the only electrical I did was Arduino :P
+01:47:34	Sean Sparling (T357A):	Arduino is a great start. Next we’ll get you wiring houses, then factories. :D
+01:47:50	Emilie AH-FOCK:	haha maybe
+01:48:22	Sean Sparling (T357A):	We need more trades people all the time. And there are grants for women in the trades as well.
+01:48:41	Sean Sparling (T357A):	I think so T357A
+01:48:57	Sean Sparling (T357A):	I have it in my VScode
+01:55:31	Sean Sparling (T357A):	Is there a how to for Github?
+01:55:59	Emilie AH-FOCK:	yes :) you can check Tomaya's link its include in it - scroll down
+01:56:28	Sean Sparling (T357A):	Thank you Emillie and Tomoya!
+01:56:34	Emilie AH-FOCK:	my pleasure
+01:59:05	Sean Sparling (T357A):	The hardest address for a pizza delivery 404 Any Street
+02:02:43	Sean Sparling (T357A):	Being a new guy I am keeping up with your explanations Paul. Thank you.
+02:10:36	Sean Sparling (T357A):	How do you accept the commits?
+02:11:51	Paul Gamble:	0kpFpIFWohGPZlx6
+02:12:24	Emilie AH-FOCK:	Good one sean
+02:16:21	Sean Sparling (T357A):	How is Tomoya authorizing the commits/ requests (?) from Paul?
+02:16:36	Emilie AH-FOCK:	I don't know - I tried lets see if it owrked
+02:16:45	Emilie AH-FOCK:	if it did i'll tell you what I did
+02:16:59	Emilie AH-FOCK:	or Tomaya can answer your question
+02:17:12	Sean Sparling (T357A):	kk, I have looked at just about everywhere.
+02:17:24	Sean Sparling (T357A):	Emillie’s a Rock star!
+02:18:34	Sean Sparling (T357A):	Think I did
+02:20:18	Sean Sparling (T357A):	Is there a way to do that in VScode?
+02:20:38	Sean Sparling (T357A):	No
+02:21:22	Sean Sparling (T357A):	Got it.
+02:21:32	Sean Sparling (T357A):	Yup, a bit different on mac
+02:21:44	Sean Sparling (T357A):	Yes sir
+02:26:29	Sean Sparling (T357A):	That makes it a bit easier.
+02:26:35	Emilie AH-FOCK:	yes :)
+02:26:48	Emilie AH-FOCK:	that's why I love VS over other code editor
+02:27:05	Sean Sparling (T357A):	My nephew got me set up on VScode
+02:28:02	Sean Sparling (T357A):	what’s the -am mean again?
+02:28:56	Sean Sparling (T357A):	Linus T
+02:29:41	Sean Sparling (T357A):	Show off
+02:31:11	Sean Sparling (T357A):	That makes sense. An easier way to understand what is going on.
+02:31:59	Tomoya Kuroda:	git checkout?
+02:37:34	Sean Sparling (T357A):	“Code explains the comments to the computer, not to other programmers” - Andy Harris
+02:37:54	Emilie AH-FOCK:	hahah good one
+02:40:02	Sean Sparling (T357A):	https://docs.atlas.mongodb.com/security/ip-access-list/
+02:40:39	Sean Sparling (T357A):	For AWS clusters with one or more VPC Peering connections to the same AWS region, you can specify a Security Group associated with a peered VPC.
+02:41:34	Sean Sparling (T357A):	Right at the top
+02:42:11	Paul Gamble:	DB_HOST="mongodb+srv://rubberduck:0kpFpIFWohGPZlx6@cluster0.0b7df.mongodb.net/problems"
+02:42:17	Sean Sparling (T357A):	https://docs.atlas.mongodb.com/security-vpc-peering/#std-label-vpc-peering
+02:42:30	Sean Sparling (T357A):	Not available on free tier
+02:43:37	Sean Sparling (T357A):	https://console.aws.amazon.com/vpc
+02:43:45	Sean Sparling (T357A):	Click that one Paul
+02:44:21	Sean Sparling (T357A):	^^^^
+02:44:51	Sean Sparling (T357A):	No the last link
+02:44:57	Sean Sparling (T357A):	it’s your dashboard
+02:45:10	Sean Sparling (T357A):	Yes
+02:48:49	Paul Gamble:	DB_HOST="mongodb+srv://dbUser:wjVvH7Z4rmGPHy9T@cluster0.ovcml.mongodb.net/dubber"
+02:52:35	Sean Sparling (T357A):	This is awesome- a brainstorming session. :)
+02:57:30	Sean Sparling (T357A):	5
+02:57:46	Britney Ming:	Yh  5
+02:57:46	Sean Sparling (T357A):	1, call Paul
+02:58:25	Sean Sparling (T357A):	I have learned so much from all of you, thank you!
+03:00:12	Sean Sparling (T357A):	is DuckSchema like a function in python?
+03:00:31	Emilie AH-FOCK:	a schema is table
+03:01:00	Tomoya Kuroda:	like type definition
+03:01:42	Sean Sparling (T357A):	Thank you Paul, Tomoya and Emillie!
+03:03:06	Sean Sparling (T357A):	https://www.postman.com/downloads/
+03:03:55	Sean Sparling (T357A):	:D
+03:04:03	Sean Sparling (T357A):	Always, lol
+03:04:39	Sean Sparling (T357A):	Does brew work on Ubuntu and linux?
+03:04:57	Sean Sparling (T357A):	Homebrew for mac
+03:05:31	Emilie AH-FOCK:	oh okay Im a window user sorry
+03:05:36	Sean Sparling (T357A):	www.brew.sh
+03:09:26	Sean Sparling (T357A):	Yes
+03:09:59	Sean Sparling (T357A):	So this program only takes 19 lines of code?
+03:10:19	Emilie AH-FOCK:	which program
+03:10:29	Sean Sparling (T357A):	The one Paul made
+03:10:42	Emilie AH-FOCK:	name?
+03:10:46	Sean Sparling (T357A):	now it’s only 13
+03:10:55	Emilie AH-FOCK:	ohh get post?
+03:11:01	Emilie AH-FOCK:	no it depends
+03:12:31	Sean Sparling (T357A):	Ah, I didn’t see the tabs in VScode. Now I see- it references different parts of all those tabs?
+03:13:07	Emilie AH-FOCK:	yeah - theres something call prettier - it makes your code clean and readable
+03:17:20	Sean Sparling (T357A):	What is that MS language called again?
+03:18:14	Britney Ming:	TypeScript
+03:18:28	Paul Gamble:	javascripttesting.com
+03:18:37	Paul Gamble:	Kent C. Dodds
+03:19:46	Sean Sparling (T357A):	Perfect!
+03:19:50	Sean Sparling (T357A):	Sign me up please
+03:20:14	Sean Sparling (T357A):	Go get some sleep Emillie. Thank you for your help.
+03:20:19	Emilie AH-FOCK:	will send you the link - on the facebook page or  event Brite
+03:20:38	Sean Sparling (T357A):	I certainly will.
+03:21:00	Sean Sparling (T357A):	You’re awesome Paul. :D
+03:21:17	Sean Sparling (T357A):	We’ve got your credit card info
+03:21:46	Sean Sparling (T357A):	Have a fantastic weekend everyone. Thank you for all your help. :D
+03:21:50	Tomoya Kuroda:	Thanks a lot!
+03:22:20	Emilie AH-FOCK:	I am super excited - thank you guys .Thanks for the input and sharing
+03:22:29	Britney Ming:	Thank you  🙂.
+03:22:32	Sean Sparling (T357A):	This is awesome and fun to learn. Better than wiring things. lol.
+03:22:46	Sean Sparling (T357A):	Will do!
+03:22:49	Sean Sparling (T357A):	Bye
+03:22:58	Britney Ming:	Bye
+03:23:03	Tomoya Kuroda:	Bye
