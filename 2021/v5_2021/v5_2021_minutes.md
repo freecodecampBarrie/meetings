@@ -32,6 +32,6 @@ In the mean, keep pushing for PRs and merging changes you think are appropriate.
 
 - [Agendas and Minutes](https://github.com/freecodecampBarrie/meetings)
 
-- [Recording of Meeting](https://youtu.be/alJT7xtCOik)
+- [Recording of Meeting](https://www.youtube.com/watch?v=R2Czgw4Gg48)
 
 - [Zoom Chat](artifacts/2021_v5_zoom_chat.txt)

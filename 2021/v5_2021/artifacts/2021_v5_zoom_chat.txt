@@ -61,7 +61,8 @@
 01:41:16	Sean Sparling (T357A):	Is there a limit or size for the free account?
 01:41:28	Emilie AH-FOCK:	the MongoDB?
 01:41:32	Sean Sparling (T357A):	Yes
-01:42:04	Emilie AH-FOCK:	I don't think(good question), but for the storage there is
+01:42:04	Emilie AH-FOCK:	I don't think(good question)
+, but for the storage there is
 01:42:23	Sean Sparling (T357A):	Thank you. :)
 01:42:43	Sean Sparling (T357A):	Is there a link to the tutorial?
 01:42:53	Emilie AH-FOCK:	MongoDb?
@@ -117,7 +118,7 @@
 02:40:02	Sean Sparling (T357A):	https://docs.atlas.mongodb.com/security/ip-access-list/
 02:40:39	Sean Sparling (T357A):	For AWS clusters with one or more VPC Peering connections to the same AWS region, you can specify a Security Group associated with a peered VPC.
 02:41:34	Sean Sparling (T357A):	Right at the top
-02:42:11	Paul Gamble:	DB_HOST="mongodb+srv://rubberduck:0kpFpIFWohGPZlx6@cluster0.0b7df.mongodb.net/problems"
+02:42:11	Paul Gamble:	[redacted]
 02:42:17	Sean Sparling (T357A):	https://docs.atlas.mongodb.com/security-vpc-peering/#std-label-vpc-peering
 02:42:30	Sean Sparling (T357A):	Not available on free tier
 02:43:37	Sean Sparling (T357A):	https://console.aws.amazon.com/vpc
@@ -126,8 +127,8 @@
 02:44:51	Sean Sparling (T357A):	No the last link
 02:44:57	Sean Sparling (T357A):	it’s your dashboard
 02:45:10	Sean Sparling (T357A):	Yes
-02:48:49	Paul Gamble:	DB_HOST="mongodb+srv://dbUser:wjVvH7Z4rmGPHy9T@cluster0.ovcml.mongodb.net/dubber"
-02:52:35	Sean Sparling (T357A):	This is awesome- a brainstorming session. :)
+02:48:49	Paul Gamble:	[redacted]
+52:35	Sean Sparling (T357A):	This is awesome- a brainstorming session. :)
 02:57:30	Sean Sparling (T357A):	5
 02:57:46	Britney Ming:	Yh  5
 02:57:46	Sean Sparling (T357A):	1, call Paul
