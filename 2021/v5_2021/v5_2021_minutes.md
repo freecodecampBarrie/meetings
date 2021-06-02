@@ -3,6 +3,7 @@
 ## May 28, 2021 - Virtual Meeting (Zoom) 7:00 pm - 10:00 pm
 
 [Emilie Ah-Fock](https://github.com/Emi55) - Co-host and Moderator
+
 [Paul Gamble](https://github.com/paulywill) - Co-host and *"main keyboard-driver"*
 
 ### The Rubber Duck Project - HACKATHON
